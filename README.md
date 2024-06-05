@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MonX-Ray
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning how to be a CPL master!
+- 🌱 I’m currently learning how to be a master!
 - 💞️ I’m looking to collaborate on ACM!
-- 📫 How to reach me 231200037@smail.nju.edu.cn or 1341029774@qq.com
+- 📫 How to reach me monxray329@gmail.com
 
 <!---
 antX-Ray/antX-Ray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
