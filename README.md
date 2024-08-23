@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @MonX-Ray
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning how to be a master!
-- 💞️ I’m looking to collaborate on ACM!
 - 📫 How to reach me monxray329@gmail.com
 
 <!---
